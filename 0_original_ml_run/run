@@ -1,0 +1,1 @@
+/opt/cloudera/parcels/SPARK/bin/spark-submit --properties-file ml.conf wordCount.py

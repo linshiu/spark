@@ -1,0 +1,8 @@
+The models for violent vs non-violent crimes suggest similar R sqrd, but the one 
+for violent crimes seems to have a much lower MSE.
+
+As expected, the predicted non-violent crimes are higher than that of violent ones.
+
+The results also make sense, where beat 0423 seems to have the highest number of
+predicted crimes. Beat 0423 is in the south side of chicago which usually is 
+associated to having more dangerous neighborhoods

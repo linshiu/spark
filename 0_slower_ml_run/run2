@@ -1,0 +1,5 @@
+hadoop fs -rm -r output
+/opt/cloudera/parcels/SPARK/bin/spark-submit --total-executor-cores 2 --properties-file ml.conf $1
+# $1 argument for python script
+hadoop fs -getmerge output output.txt
+rm .output.txt.crc

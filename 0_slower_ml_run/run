@@ -1,0 +1,1 @@
+/opt/cloudera/parcels/SPARK/bin/spark-submit --total-executor-cores 2 --properties-file ml.conf file.py
