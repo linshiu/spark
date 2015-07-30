@@ -56,15 +56,15 @@ Spark version: 1.3
  
  ## Visualizations
 
- ![Histogram by Month](https://github.com/linshiu/spark/blob/master/spark/1_Visuals/lin_findings1.png)
+ ![Histogram by Month](https://github.com/linshiu/spark/blob/master/1_Visuals/lin_findings1.png)
 
- ![Histogram by Weekday](https://github.com/linshiu/spark/blob/master/spark/1_Visuals/lin_findings4_2.png)
+ ![Histogram by Weekday](https://github.com/linshiu/spark/blob/master/1_Visuals/lin_findings4_2.png)
 
- ![Histogram by Hour](https://github.com/linshiu/spark/blob/master/spark/1_Visuals/lin_findings4_1.png)
+ ![Histogram by Hour](https://github.com/linshiu/spark/blob/master/1_Visuals/lin_findings4_1.png)
 
- ![Heat Map 1](https://github.com/linshiu/spark/blob/master/spark/1_Visuals/lin_findings4_3.png)
+ ![Heat Map 1](https://github.com/linshiu/spark/blob/master/1_Visuals/lin_findings4_3.png)
 
- ![Heat Map 2](https://github.com/linshiu/spark/blob/master/spark/1_Visuals/lin_findings4_3.png)
+ ![Heat Map 2](https://github.com/linshiu/spark/blob/master/1_Visuals/lin_findings4_3.png)
 
- ![Map Crimes](https://github.com/linshiu/spark/blob/master/spark/1_Visuals/lin_findings2.png)
+ ![Map Crimes](https://github.com/linshiu/spark/blob/master/1_Visuals/lin_findings2.png)
 
