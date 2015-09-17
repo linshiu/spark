@@ -56,15 +56,15 @@ Spark version: 1.3
  
  ## Visualizations
 
- ![Histogram by Month](/1_Visuals/lin_findings1.png)
+ ![Histogram by Month](/msia_big_data_spark/1_Visuals/lin_findings1.png)
 
- ![Histogram by Weekday](/1_Visuals/lin_findings4_2.png)
+ ![Histogram by Weekday](/msia_big_data_spark/1_Visuals/lin_findings4_2.png)
 
- ![Histogram by Hour](/1_Visuals/lin_findings4_1.png)
+ ![Histogram by Hour](/msia_big_data_spark/1_Visuals/lin_findings4_1.png)
 
- ![Heat Map 1](/1_Visuals/lin_findings4_3.png)
+ ![Heat Map 1](/msia_big_data_spark/1_Visuals/lin_findings4_3.png)
 
- ![Heat Map 2](/1_Visuals/lin_findings4_3.png)
+ ![Heat Map 2](/msia_big_data_spark/1_Visuals/lin_findings4_3.png)
 
- ![Map Crimes](/1_Visuals/lin_findings2.png)
+ ![Map Crimes](/msia_big_data_spark/1_Visuals/lin_findings2.png)
 
